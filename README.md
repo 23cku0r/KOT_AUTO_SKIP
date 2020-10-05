@@ -16,6 +16,10 @@ This is simple script for auto skip in King of Thieves
 # INFO: 
 
 > This is beta of script.
+
 > It may sometimes not work correctly. 
+
 > I tested only on 1920x1080 resolution.
+
 > There are no three gems in this script (big yellow, golden purple and big golden yellow)
+
