@@ -6,8 +6,16 @@ This is simple script for auto skip in King of Thieves
 3. Run the install.cmd for install need modules
 4. Start the auto_skip.py and choise need function
 
+# FEATURES:
+- Find Big Golden Gems
+- Find Simple Golden Gems
+- Find Big Gems
+- Find All Golden Gems
+- Find All previous Gems
+
 # INFO: 
 
-This is beta of script.
-It may sometimes not work correctly. I tested only on 1920x1080 resolution.
-There are no three gems in this script (big yellow, golden purple and big golden yellow)
+> This is beta of script.
+> It may sometimes not work correctly. 
+> I tested only on 1920x1080 resolution.
+> There are no three gems in this script (big yellow, golden purple and big golden yellow)
