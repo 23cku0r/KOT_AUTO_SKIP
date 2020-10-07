@@ -1,10 +1,11 @@
 # KOT_AUTO_SKIP
 This is simple script for auto skip in King of Thieves
 
-1. Install NOX or BlueStacks app
-2. Bind Space button on the skip button. Or any another button, but u need to change key on 39 line of auto_skip.py
-3. Run the install.cmd for install need modules
-4. Start the auto_skip.py and choise need function
+1. Install Python 3.8+ https://www.python.org/
+2. Install NOX or BlueStacks app
+3. Bind Space button on the skip button. Or any another button, but u need to change key on 39 line of auto_skip.py
+4. Run the install.cmd for install need modules
+5. Start the auto_skip.py and choise need function
 
 # FEATURES:
 - Find Big Golden Gems
