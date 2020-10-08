@@ -27,5 +27,5 @@ https://www.youtube.com/watch?v=xPKs48xuVwg
 
 > I tested only on 1920x1080 resolution.
 
-> There are no three gems in this script (big yellow, golden purple and big golden yellow)
+> This script dont have big yellow gem
 
