@@ -36,7 +36,6 @@ def finder(a):
     def t1(x):
         global result
         for i in x:
-            print(i)
             x = pyautogui.locateCenterOnScreen('images/'+i+'.png', confidence=0.8)
             if x == None:
                 result += 1
