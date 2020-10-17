@@ -17,7 +17,7 @@ This is simple script for auto skip in King of Thieves
 # VIDEO:
 https://www.youtube.com/watch?v=xPKs48xuVwg
 
-> The video shows the previous version of the script. Now it works faster and you can put another delay on line 20 (in seconds), but the lower the delay, the more it can miss due to the transition when selecting dungeons
+> The video shows the previous version of the script. Now it works faster and you can put another delay on line 21 (in seconds), but the lower the delay, the more it can miss due to the transition when selecting dungeons
 
 # INFO: 
 
